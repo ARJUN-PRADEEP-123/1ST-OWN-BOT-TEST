@@ -27,5 +27,5 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/EvamariaTG/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/1ST-OWN-BOT-TEST.git">
   <img src="https://telegra.ph/file/8005b3498755b538efa3c.jpg" alt="Deploy">
