@@ -1,8 +1,13 @@
 # This is just a testing bot 
+#             .
+#            . .
+#          .  .  .
+#        . . . . . . 
+#      .   .   .   .  .
 # [SUSCRIBE IN TELEGRAM](https://t.me/status4us)
 
 <p align="center">
-<img src="https://telegra.ph/file/1d8176f22e150bebb5229.jpg">
+<img src="https://telegra.ph/file/8005b3498755b538efa3c.jpg">
 </p>
 ## Features
 
